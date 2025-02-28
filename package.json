@@ -1,0 +1,13 @@
+{
+  "name": "AI-Agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/0xJaskeerat/AI-Agent.git",
+  "author": "Jaskeerat Singh <jaskeerat10000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.86.1"
+  }
+}
