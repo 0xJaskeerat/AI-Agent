@@ -21,7 +21,9 @@ Install **Git**: [Download here](https://git-scm.com/)
 
 ```bash
 git clone -b template --single-branch https://github.com/0xJaskeerat/AI-Agent.git
-cd your-project
+```
+```bash
+cd AI-Agent
 ```
 
 ### ⭐️ Install the necessary dependencies 
