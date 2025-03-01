@@ -17,10 +17,10 @@ Follow these steps to set up the project on your local machine:
 Install **Node.js**: [Download here](https://nodejs.org/)  
 Install **Git**: [Download here](https://git-scm.com/)  
 
-### 🔥 Clone the Repository
+### 🔥 Clone the Template branch from the repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone -b template --single-branch https://github.com/0xJaskeerat/AI-Agent.git
 cd your-project
 ```
 
